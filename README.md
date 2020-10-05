@@ -1,18 +1,13 @@
 <p align="center">
   <img src="https://github.com/2knal/2knal/blob/master/bitmoji.jfif" width="200px" height="200px">
   <br>
-  <br>
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=2knal.2knal)
-  
-  <br>
-    👋 Hello I'm <strong>Kunal Sonawane</strong>, a Computer Science and Engineering student, who is interested in a little bit of everything. Currently, I am an SDE Intern @Arconnet. I am interested in DevOps, Distributed technologies and backend development in general. Occasionally, I get my hands dirty with Competitive programming.
+  👋 Hello I'm <strong>Kunal Sonawane</strong>, a Computer Science and Engineering student, who is interested in a little bit of everything. I am interested in DevOps, Distributed technologies and backend development in general. Occasionally, I get my hands dirty with Competitive programming.
   <br>
 </p>
 
 * 🔭 I’m currently working on:
-  - CyberBullying Detection
-  - UI automation 
+  - Understanding Golang
+  - Exploring React
   
 * 🌱 I’m currently learning:
   - Blender and 3D Modelling
