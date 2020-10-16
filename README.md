@@ -26,7 +26,7 @@
   - Podcasts
   
 * 📫 How to reach me:
-  - LinkedIn: [kunal-sonawane](https://linkedin.com/in/2knal/)
+  - LinkedIn: [@2knal](https://linkedin.com/in/2knal/)
   - Mail: [kunal.sonawane](mailto:kunal.sonawane@somaiya.edu)
   - Website: [@2knal](https://2knal.github.io)
   - Twitter: [@2knal](https://twitter.com/2knal)
