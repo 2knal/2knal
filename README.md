@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://github.com/2knal/2knal/blob/master/bitmoji.jfif" width="200px" height="200px">
   <br>
-  👋 Hello I'm <strong>Kunal Sonawane</strong>, a full-stack developer <a href="https://morganstanley.com">@MorganStanley</a>. I love building applications, right from creating wireframes to shipping them!
+  👋 Hello I'm <strong>Kunal Sonawane</strong>, a CS Grad at UC Irvine. I love building applications, from creating wireframes to shipping them!
   <br>
 </p>
 
 * 🔭 I’m currently learning:
-  - TypeScript
+  - Rust
   
-* 👯 I’m looking to collaborate on projects involving <b> TypeScript. </b>
+* 👯 I’m looking to collaborate on projects involving <b> Rust. </b>
 
 * 🤔 I’m looking for help with:
   - Working on open-source projects
@@ -29,8 +29,16 @@
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I can groove to any beat!
 
+<be>
+
+![](https://komarev.com/ghpvc/?username=2knal)
+
+<be>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api?username=2knal&show_icons=true&theme=dracula&count_private=true)
-<br>
+
+<be>
+
 ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2knal&theme=dracula&hide=css,c%23)
+
 
