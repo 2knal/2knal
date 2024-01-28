@@ -1,23 +1,10 @@
-<p align="center">
-  <img src="https://github.com/2knal/2knal/blob/master/bitmoji.jfif" width="200px" height="200px">
-  <br>
-  👋 Hello I'm <strong>Kunal Sonawane</strong>, a CS Grad at UC Irvine. I love building applications, from creating wireframes to shipping them!
-  <br>
-</p>
+### 👋 Hello
+
+I'm <strong>Kunal Sonawane</strong>, a CS Grad at UC Irvine. I love building applications, from creating wireframes to shipping them!
+
 
 * 🔭 I’m currently learning:
-  - Rust
-  
-* 👯 I’m looking to collaborate on projects involving <b> Rust. </b>
-
-* 🤔 I’m looking for help with:
-  - Working on open-source projects
-  - Networking with people
- 
-* 💬 Ask me about:
-  - Python3
-  - Automation
-  - Podcasts
+  - Golang
   
 * 📫 How to reach me:
   - LinkedIn: [@2knal](https://linkedin.com/in/2knal/)
@@ -25,9 +12,6 @@
   - Website: [@2knal](https://2knal.github.io)
   - Twitter: [@2knal](https://twitter.com/2knal)
   - Telegram: [@2knal](https://t.me/knal_s)
-
-* 😄 Pronouns: He/him
-* ⚡ Fun fact: I can groove to any beat!
 
 <be>
 
